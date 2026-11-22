@@ -1,0 +1,2 @@
+import mace
+mace.run()
